@@ -1,0 +1,59 @@
+*{
+    font-family: sans-serif;
+    margin-left: 0%;
+    margin-top: 0%;
+    margin-right: 0%
+
+}
+body{
+    background-image: linear-gradient(pink,rgb(244, 247, 242));
+}
+.nav_bar{
+    background-color: black;
+    color: white;
+    height: 6rem;
+    margin: 0%;
+    padding: 0%;
+    position: sticky;
+    align-items: right;
+    justify-content: right;
+}
+h2{
+    padding-top: 1rem;
+    padding-right: 1rem;
+    font-size: 2rem;
+    justify-content: space-between;
+    text-align: right;
+    justify-content: right;
+}
+link{
+    color: white;
+    text-decoration: none;
+}
+
+h2:hover{
+    color: red;
+    font-size: 2.4rem;
+}
+#Home{
+    height: 95vh;
+    width: 100%;
+}
+h1{
+    font-size: 4rem;
+    margin-top: 6rem;
+    margin-left: 2rem;
+}
+.container{
+    display: flex;
+}
+p{
+    font-size: 3rem;
+    text-align: center;
+    justify-content: right;
+    margin-top: 20rem;
+}
+img{
+    width: 50%;
+    padding-left: 5rem;
+}
