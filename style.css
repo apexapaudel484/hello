@@ -18,22 +18,21 @@ body{
     align-items: right;
     justify-content: right;
 }
-h2{
+.nav_bar h2{
     padding-top: 1rem;
     padding-right: 1rem;
-    font-size: 2rem;
     justify-content: space-between;
     text-align: right;
+    font-style: none;
+    text-decoration: none;
     justify-content: right;
+
 }
-link{
+a{  
+    margin-right: 1rem;
+    font-size: 1.5rem;
     color: white;
     text-decoration: none;
-}
-
-h2:hover{
-    color: red;
-    font-size: 2.4rem;
 }
 #Home{
     height: 95vh;
@@ -57,3 +56,19 @@ img{
     width: 50%;
     padding-left: 5rem;
 }
+#bulba_page{
+    height: 90vh;
+    width: 100%;
+    margin-top: 4rem;
+  }
+#char_page{
+  height: 95vh;
+  width: 100%;
+  margin-top: 4rem;
+}
+#squir_page{
+    height: 95vh;
+    width: 100%;
+    margin-top: 4rem;
+  }
+  
